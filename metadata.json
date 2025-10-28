@@ -1,0 +1,5 @@
+{
+  "name": "Futuristic Image Transformer",
+  "description": "A sleek, cyberpunk-themed application that transforms user-uploaded photos into futuristic, high-tech art using the Gemini API. The UI is designed to look like a cutting-edge, transparent smartphone.",
+  "requestFramePermissions": []
+}
